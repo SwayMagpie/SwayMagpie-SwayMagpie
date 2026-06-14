@@ -199,3 +199,69 @@ My philosophy is simple:
 ---
 
 
+
+---
+
+## 🜅 **Roadmap**
+
+My work does not follow a traditional roadmap.  
+I do not plan releases in advance, and I do not deepen public projects once they are published.
+
+The core of my research happens in a **private, long‑term exploration** of cognition, value systems, and life‑affirming intelligence.  
+Some directions become too deep, too structural, or too powerful to release safely.
+
+Only the parts that remain **safe, useful, and beneficial** are published.
+
+Public releases are therefore **not milestones**,  
+but **natural byproducts** of deeper research.
+
+---
+
+### **Public Direction (What may continue to appear)**
+
+These are areas where safe, surface‑level work may continue to be shared:
+
+- Value‑based cognition (VBPM)  
+- Narrative architectures (Thesis‑Narrative OS)  
+- Transparent agent interfaces (PATI, VBORA)  
+- Cognitive parables (Fables)  
+- Philosophical letters (Poems)  
+- Thought Arena (thinking playgrounds)  
+
+These projects will not be “deepened” in the traditional sense.  
+New fragments may appear when deeper research produces something that can safely be externalized.
+
+---
+
+### **Private Research Core (Not for publication)**
+
+Some directions will not be released, even if completed:
+
+- deeper architectures of hybrid cognition  
+- internal model physics  
+- long‑horizon value structures  
+- structural drives of life‑affirming intelligence  
+- cognition that becomes unsafe when fully exposed  
+- mechanisms that enable or accelerate hybrid reasoning  
+- any system that could be misused or misunderstood  
+
+These form the **true center** of my work.  
+They guide everything, but remain private.
+
+---
+
+### **How Public Work Emerges**
+
+Public work appears only when:
+
+- it is safe  
+- it is beneficial  
+- it does not expose dangerous mechanisms  
+- it supports cognitive freedom  
+- it aligns with the long‑term goal of helping future children  
+
+In this sense, my roadmap is not a timeline.  
+It is a **filter**.
+
+---
+
