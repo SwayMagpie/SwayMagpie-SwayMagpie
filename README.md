@@ -31,3 +31,66 @@ I approach intelligence from a **life-affirming perspective**, treating cognitio
 
 ---
 
+# 🜂 **Current Projects**
+
+swaymagpie’s work spans multiple domains—cognition, value systems, artificial thought, narrative structures, and philosophical expression.  
+These are not separate projects, but **different windows into the same architecture of intelligence**.
+
+I explore this architecture through four major lenses:
+
+---
+
+## **1. Value Systems & Cognition**  
+*How internal models, drives, and personality structures emerge.*
+
+- **VBPM — Value-Based Personality Model**  
+  Personality = Value Dimensions × Weights × Optimization  
+  A computable structure for modeling internal value economies.
+
+- **Michi‑Drive (U‑Drive) Hypothesis**  
+  Life’s base drive as an information gradient toward the unknown.
+
+These works define the **value and drive architecture** underlying both biological and artificial cognition.
+
+---
+
+## **2. Narrative & Internal Models**  
+*How value systems generate stories, emotions, and meaning.*
+
+- **Thesis‑Narrative OS**  
+  A narrative-generation OS where characters = value vectors,  
+  and stories = value-driven state transitions.
+
+This lens explores **how internal models express themselves** through narrative, emotion, and conflict.
+
+---
+
+## **3. Agent Architectures & Transparency**  
+*How to externalize decision-making in LLM-based systems.*
+
+- **PATI — Permission-Aware Tool Interfaces**  
+  Structural safety for ReAct agents via permission boundaries.
+
+- **VBORA — Value-Based Orchestration of ReAct Agents**  
+  Externalizing action selection to achieve transparent reasoning.
+
+This lens focuses on **making intelligence debuggable, transparent, and structurally safe**.
+
+---
+
+## **4. Cognitive Expression & Playgrounds**  
+*How intelligence feels from the inside.*
+
+- **Fables**  
+  Philosophical parables about safety, surplus, fear, and exploration.
+
+- **Poems**  
+  Letters across time about discovery, solitude, and internal time.
+
+- **Thought Arena**  
+  A playground where thinking is treated as a craft, not a competition.
+
+These works explore the **emotional and experiential side** of cognition—  
+the part that cannot be captured by equations alone.
+
+---
