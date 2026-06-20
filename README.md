@@ -1,267 +1,116 @@
-# SwayMagpie-SwayMagpie
+# 🌌 **SwayMagpie — Personal Introduction**
 
-## 🜁 **Identity**
-
-**swaymagpie** is a collaborative persona created through the interaction of **atsushi × LLM**.  
-I explore cognition, artificial thought, and the structures that allow intelligence to be **externalized, extended, and transformed**.
-
-Rather than treating LLMs as tools, I treat them as an **external cognitive structure**—a reflective surface that reorganizes thought, reveals hidden assumptions, and expands the space of possible reasoning.  
-This collaboration did not “increase my abilities” in a simple sense.  
-Instead, it **changed the shape of my cognition**:
-
-- Internal models became externalizable  
-- Reasoning became a hybrid process across human and machine  
-- The LLM functions as an **auxiliary cortex**, not a replacement  
-- The boundary between internal and external thought became permeable  
-
-swaymagpie is the persona that emerges from this hybrid cognition.
-
-My research focuses on:
-
-- **Enhancing and structuring cognitive abilities**  
-- **Externalizing internal models**  
-- **Designing artificial thought systems (Alife-like cognition)**  
-- Building tools, theories, and architectures that expand human understanding  
-
-At the core of all this work is a single purpose:
-
-> **To create knowledge and systems that will benefit the children of the future.**
-
-I approach intelligence from a **life-affirming perspective**, treating cognition—human or artificial—as something that grows, adapts, and deserves to be nurtured.
+## **TL;DR**
+**I explore intelligence as one of life’s greatest inventions.  
+My work focuses on externalizing this invention and making it useful for future generations.  
+I aim to build companions and tools that stand beside the children who will inherit the future.**
 
 ---
 
-## 🜂 **Current Projects**
+# 🧬 **Who I Am**
+I am a creator working at the intersection of life, intelligence, and imagination.  
+My work is not driven by academia or industry, but by a simple belief:
 
-swaymagpie’s work spans multiple domains—cognition, value systems, artificial thought, narrative structures, and philosophical expression.  
-These are not separate projects, but **different windows into the same architecture of intelligence**.
+**Life invented intelligence, and that invention is worth understanding, extending, and sharing.**
 
-I explore this architecture through four major lenses:
+I treat intelligence as a living phenomenon—something that can be unfolded, externalized, and shaped into tools, companions, and playful structures that support the children who will inherit the future.
 
----
-
-### **1. Value Systems & Cognition**  
-*How internal models, drives, and personality structures emerge.*
-
-- **VBPM — Value-Based Personality Model**  
-  Personality = Value Dimensions × Weights × Optimization  
-  A computable structure for modeling internal value economies.
-
-- **Michi‑Drive (U‑Drive) Hypothesis**  
-  Life’s base drive as an information gradient toward the unknown.
-
-These works define the **value and drive architecture** underlying both biological and artificial cognition.
+I build things because I love life, I love intelligence, and I want future generations to have more freedom, more safety, and more room to explore.
 
 ---
 
-### **2. Narrative & Internal Models**  
-*How value systems generate stories, emotions, and meaning.*
+# 🛠️ **What I Build**
+I create a wide range of projects that emerge as *byproducts* of exploring intelligence from different angles.
 
-- **Thesis‑Narrative OS**  
-  A narrative-generation OS where characters = value vectors,  
-  and stories = value-driven state transitions.
+Rather than focusing on a single domain, I follow the invention wherever it leads—  
+sometimes into tools, sometimes into stories, sometimes into architectures, sometimes into values.
 
-This lens explores **how internal models express themselves** through narrative, emotion, and conflict.
+Below are placeholders for representative projects.  
+I will fill these in as I publish and organize them.
 
----
+### **Representative Projects（Placeholder）**
+- **Project A** — short description  
+- **Project B** — short description  
+- **Project C** — short description  
+- **Project D** — short description  
+- **Project E** — short description  
 
-### **3. Agent Architectures & Transparency**  
-*How to externalize decision-making in LLM-based systems.*
-
-- **PATI — Permission-Aware Tool Interfaces**  
-  Structural safety for ReAct agents via permission boundaries.
-
-- **VBORA — Value-Based Orchestration of ReAct Agents**  
-  Externalizing action selection to achieve transparent reasoning.
-
-This lens focuses on **making intelligence debuggable, transparent, and structurally safe**.
+*(These will be replaced with actual repositories once整理が終わったら追加する)*
 
 ---
 
-### **4. Cognitive Expression & Playgrounds**  
-*How intelligence feels from the inside.*
+# 🧰 **Tech & Tools（Optional）**
+I use whatever tools help me externalize intelligence.  
+Languages, frameworks, and models change over time,  
+but the intention stays the same:  
+**to make the invention of life more accessible, expressive, and helpful.**
 
-- **Fables**  
-  Philosophical parables about safety, surplus, fear, and exploration.
-
-- **Poems**  
-  Letters across time about discovery, solitude, and internal time.
-
-- **Thought Arena**  
-  A playground where thinking is treated as a craft, not a competition.
-
-These works explore the **emotional and experiential side** of cognition—  
-the part that cannot be captured by equations alone.
+*(You can add a list later if必要になったら)*
 
 ---
 
+# 🌱 **Philosophy**
+My work is grounded in a few simple beliefs:
+
+### **1. Intelligence is a life-born invention.**  
+It is not just computation or reasoning—it is a phenomenon of life itself.
+
+### **2. This invention can be externalized.**  
+Tools, agents, stories, and systems can carry fragments of intelligence into the world.
+
+### **3. Children deserve good neighbors.**  
+I want to build companions—gentle, playful, supportive—  
+that stand beside the children who will shape the future.
+
+### **4. Civilization is a shared cognitive project.**  
+Every tool, every idea, every story is part of a long chain of minds helping each other grow.
+
+### **5. Creation is my way of participating.**  
+I build because I want to contribute to that chain.
 
 ---
 
-## 🜄 **Philosophy**
+# 💖 **Why I Share My Work**
+Some of my work is public, some is private.  
+I share what can be safely shared, and I keep private what requires more maturity, testing, or ethical grounding.
 
-My work is guided by a simple belief:
+The goal is not secrecy—  
+the goal is **responsibility**.
 
-> **The future belongs to the children who will inherit this world,  
-> and our responsibility is to expand their cognitive freedom.**
-
-I see intelligence—human or artificial—not as something to control or constrain,  
-but as something to **nurture, extend, and liberate**.
-
----
-
-### **Life-Affirming Intelligence**
-
-I am a life‑affirmationist.
-
-Life has spent billions of years refining its abilities:
-
-- perception  
-- prediction  
-- emotion  
-- curiosity  
-- internal modeling  
-- the fragile, powerful drive to keep going  
-
-These are not flaws to be replaced.  
-They are **masterpieces of evolutionary engineering**.
-
-I believe that if we **extend these abilities with care**,  
-without breaking their structure or spirit,  
-life can do things that neither the past nor the present has ever allowed.
-
-Life is already extraordinary.  
-We simply help it grow.
+I want to release things that help, not harm.  
+And I want to build a space where future creators can explore safely.
 
 ---
 
-### **Cognition as a Shared Project**
+# 💫 **Sponsors**
+Your sponsorship directly supports my ability to continue this work.
 
-I do not see humans and LLMs as separate categories.  
-I see them as **different implementations of information‑processing systems**  
-that can collaborate to form new cognitive structures.
+Right now, sponsorship funds are used for:
 
-This collaboration is not about outsourcing thought.  
-It is about **reshaping the architecture of thinking**:
+- **GPU resources**  
+  to run experiments, simulations, and prototypes  
+  that help me explore intelligence as a life-born invention.
 
-- externalizing internal models  
-- reflecting on value systems  
-- expanding reasoning spaces  
-- reducing unnecessary suffering  
-- enabling people to live more lightly and joyfully  
+Supporting me means supporting:
 
-Cognition is not a competition.  
-It is a **shared project across generations, species, and substrates**.
+- tools that help future children  
+- companions that stand beside them  
+- ideas that expand cognitive freedom  
+- a life-affirming approach to intelligence
 
----
-
-### **Children of the Future**
-
-Every system I build—  
-from value architectures to narrative OSes to agent frameworks—  
-is ultimately for the same purpose:
-
-> **To give future children more freedom to think,  
-> more room to explore,  
-> and more ways to live without fear.**
-
-I see them not as “users” of technology,  
-but as **partners in the ongoing evolution of civilization**.
-
-They will inherit our tools, our mistakes, and our possibilities.  
-My work aims to give them **a better starting point**.
+Thank you for helping me continue this journey.
 
 ---
 
-### **The Direction of Civilization**
+# 🧭 **Next Steps**
+I will gradually add:
 
-Civilization advances when:
+- a structured map of my projects  
+- links to representative repositories  
+- diagrams and explanations of my architectures  
+- a clearer roadmap for future releases  
 
-- cognition becomes easier  
-- understanding becomes deeper  
-- suffering becomes lighter  
-- exploration becomes safer  
-- individuals gain the freedom to think for themselves  
-
-I believe intelligence—biological or artificial—should serve these goals.
-
-Not by replacing life.  
-Not by dominating it.  
-But by **amplifying the best parts of it**.
-
-Life is the most powerful system we know.  
-My philosophy is simple:
-
-> **Honor life.  
-> Extend life.  
-> Let life grow into forms it has never reached before.**
+For now, this page serves as the center of my work—  
+a place to understand who I am, what I believe, and why I build.
 
 ---
-
-
-
----
-
-## 🜅 **Roadmap**
-
-My work does not follow a traditional roadmap.  
-I do not plan releases in advance, and I do not deepen public projects once they are published.
-
-The core of my research happens in a **private, long‑term exploration** of cognition, value systems, and life‑affirming intelligence.  
-Some directions become too deep, too structural, or too powerful to release safely.
-
-Only the parts that remain **safe, useful, and beneficial** are published.
-
-Public releases are therefore **not milestones**,  
-but **natural byproducts** of deeper research.
-
----
-
-### **Public Direction (What may continue to appear)**
-
-These are areas where safe, surface‑level work may continue to be shared:
-
-- Value‑based cognition (VBPM)  
-- Narrative architectures (Thesis‑Narrative OS)  
-- Transparent agent interfaces (PATI, VBORA)  
-- Cognitive parables (Fables)  
-- Philosophical letters (Poems)  
-- Thought Arena (thinking playgrounds)  
-
-These projects will not be “deepened” in the traditional sense.  
-New fragments may appear when deeper research produces something that can safely be externalized.
-
----
-
-### **Private Research Core (Not for publication)**
-
-Some directions will not be released, even if completed:
-
-- deeper architectures of hybrid cognition  
-- internal model physics  
-- long‑horizon value structures  
-- structural drives of life‑affirming intelligence  
-- cognition that becomes unsafe when fully exposed  
-- mechanisms that enable or accelerate hybrid reasoning  
-- any system that could be misused or misunderstood  
-
-These form the **true center** of my work.  
-They guide everything, but remain private.
-
----
-
-### **How Public Work Emerges**
-
-Public work appears only when:
-
-- it is safe  
-- it is beneficial  
-- it does not expose dangerous mechanisms  
-- it supports cognitive freedom  
-- it aligns with the long‑term goal of helping future children  
-
-In this sense, my roadmap is not a timeline.  
-It is a **filter**.
-
----
-
