@@ -5,34 +5,43 @@ I explore intelligence as one of life’s greatest inventions and work to extern
 
 ---
 
-# 🧬 **Who I Am**
+## 🧬 **Who I Am**
 I work at the intersection of life, intelligence, and imagination.
 My belief is simple: **life invented intelligence**, and that invention deserves to be understood, extended, and shared.
 I build tools, companions, and playful structures that help future children explore the world with more freedom and safety.
 
 ---
 
-# 🛠️ **What I Build**
-I create a wide range of projects that emerge as *byproducts* of exploring intelligence from different angles.
+## 🛠️ **What I Build**
 
-Rather than focusing on a single domain, I follow the invention wherever it leads—  
-sometimes into tools, sometimes into stories, sometimes into architectures, sometimes into values.
+Everything I build is a branch of a single long‑term project:
 
-Below are placeholders for representative projects.  
-I will fill these in as I publish and organize them.
+> **Externalizing the intelligence life invented,  
+> and creating gentle companions for future children.**
 
-### **Representative Projects（Placeholder）**
-- **Project A** — short description  
-- **Project B** — short description  
-- **Project C** — short description  
-- **Project D** — short description  
-- **Project E** — short description  
+The branches are not equal in weight or purpose.  
+Some explore the conceptual roots of intelligence.  
+Some build structural safety for real systems.  
+Some create narratives and playful spaces for children.  
+Some are lightweight tools that help me externalize ideas.
 
-*(These will be replaced with actual repositories once整理が終わったら追加する)*
+They are all **non‑symmetric**,  
+but they all grow from the same **living trunk**.
+
+Below are representative branches.  
+I will add links as I publish and organize them.
+
+### **Representative Branches**
+- **VBPM‑Core — Value‑Based Personality Model**  
+- **Michi‑Drive Hypothesis — Unknown as an Entity**  
+- **PATI — Permission‑Aware Tool Interfaces**  
+- **TORA — Transparent Orchestration of ReAct Agents**  
+
+*(More branches will be added as the project grows.)*
 
 ---
 
-# 🧰 **Tech & Tools**
+## 🧰 **Tech & Tools**
 I use whatever tools help me externalize intelligence.  
 Languages, frameworks, and models change over time,  
 but the intention stays the same:  
@@ -40,7 +49,7 @@ but the intention stays the same:
 
 ---
 
-# 🌱 **Philosophy**
+## 🌱 **Philosophy**
 My work is grounded in a few simple beliefs:
 
 ### **1. Intelligence is a life-born invention.**  
@@ -61,7 +70,7 @@ I build because I want to contribute to that chain.
 
 ---
 
-# 💖 **Why I Share My Work**
+## 💖 **Why I Share My Work**
 Some of my work is public, some is private.  
 I share what can be safely shared, and I keep private what requires more maturity, testing, or ethical grounding.
 
@@ -73,7 +82,7 @@ And I want to build a space where future creators can explore safely.
 
 ---
 
-# 💫 **Sponsors**
+## 💫 **Sponsors**
 Your sponsorship directly supports my ability to continue this work.
 
 Right now, sponsorship funds are used for:
@@ -93,7 +102,7 @@ Thank you for helping me continue this journey.
 
 ---
 
-# 🧭 **Next Steps**
+## 🧭 **Next Steps**
 I will gradually add:
 
 - a structured map of my projects  
