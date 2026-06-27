@@ -32,13 +32,11 @@ I will fill these in as I publish and organize them.
 
 ---
 
-# 🧰 **Tech & Tools（Optional）**
+# 🧰 **Tech & Tools**
 I use whatever tools help me externalize intelligence.  
 Languages, frameworks, and models change over time,  
 but the intention stays the same:  
 **to make the invention of life more accessible, expressive, and helpful.**
-
-*(You can add a list later if必要になったら)*
 
 ---
 
