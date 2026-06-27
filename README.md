@@ -1,21 +1,14 @@
 # 🌌 **SwayMagpie — Personal Introduction**
 
 ## **TL;DR**
-**I explore intelligence as one of life’s greatest inventions.  
-My work focuses on externalizing this invention and making it useful for future generations.  
-I aim to build companions and tools that stand beside the children who will inherit the future.**
+I explore intelligence as one of life’s greatest inventions and work to externalize it for future generations.
 
 ---
 
 # 🧬 **Who I Am**
-I am a creator working at the intersection of life, intelligence, and imagination.  
-My work is not driven by academia or industry, but by a simple belief:
-
-**Life invented intelligence, and that invention is worth understanding, extending, and sharing.**
-
-I treat intelligence as a living phenomenon—something that can be unfolded, externalized, and shaped into tools, companions, and playful structures that support the children who will inherit the future.
-
-I build things because I love life, I love intelligence, and I want future generations to have more freedom, more safety, and more room to explore.
+I work at the intersection of life, intelligence, and imagination.
+My belief is simple: **life invented intelligence**, and that invention deserves to be understood, extended, and shared.
+I build tools, companions, and playful structures that help future children explore the world with more freedom and safety.
 
 ---
 
