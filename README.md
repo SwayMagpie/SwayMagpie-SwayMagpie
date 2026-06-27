@@ -98,7 +98,8 @@ Supporting me means supporting:
 - ideas that expand cognitive freedom  
 - a life-affirming approach to intelligence
 
-Thank you for helping me continue this journey.
+→ [Support this work on GitHub Sponsors](https://github.com/sponsors/SwayMagpie)
+
 
 ---
 
