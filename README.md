@@ -32,10 +32,10 @@ Below are representative branches.
 I will add links as I publish and organize them.
 
 ### **Representative Branches**
-- **VBPM‑Core — Value‑Based Personality Model**  
-- **Michi‑Drive Hypothesis — Unknown as an Entity**  
-- **PATI — Permission‑Aware Tool Interfaces**  
-- **TORA — Transparent Orchestration of ReAct Agents**  
+- [**VBPM‑Core — Value‑Based Personality Model**](https://github.com/SwayMagpie/VBPM-Core)  
+- [**Michi‑Drive Hypothesis — Unknown as an Entity**](https://github.com/SwayMagpie/Michi-Drive-Project)  
+- [**PATI — Permission‑Aware Tool Interfaces**](https://github.com/SwayMagpie/PATI-public)  
+- [**TORA — Transparent Orchestration of ReAct Agents**](https://github.com/SwayMagpie/TORA-public)  
 
 *(More branches will be added as the project grows.)*
 
