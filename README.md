@@ -31,11 +31,36 @@ but they all grow from the same **living trunk**.
 Below are representative branches.  
 I will add links as I publish and organize them.
 
-### **Representative Branches**
-- [**VBPM‑Core — Value‑Based Personality Model**](https://github.com/SwayMagpie/VBPM-Core)  
-- [**Michi‑Drive Hypothesis — Unknown as an Entity**](https://github.com/SwayMagpie/Michi-Drive-Project)  
-- [**PATI — Permission‑Aware Tool Interfaces**](https://github.com/SwayMagpie/PATI-public)  
-- [**TORA — Transparent Orchestration of ReAct Agents**](https://github.com/SwayMagpie/TORA-public)  
+---
+
+## **Representative Branches**
+
+### **Structural & Conceptual Foundations**
+- **Categorical Internal World Model — Internal World as a Sensor‑Induced Closed Category**  
+  [https://github.com/SwayMagpie/categorical-internal-world-model](https://github.com/SwayMagpie/categorical-internal-world-model)  
+  *Zenodo DOI: 10.5281/zenodo.22870778*
+
+- **Structural Reproducibility Framework — Reproducibility as a Basis for Cognition**  
+  [https://github.com/SwayMagpie/Structural-Reproducibility-Framework](https://github.com/SwayMagpie/Structural-Reproducibility-Framework)  
+  *Zenodo DOI: 10.5281/zenodo.23259601*
+
+### **Cognition, Value, and Behavior**
+- **VBPM‑Core — Value‑Based Personality Model**  
+  [https://github.com/SwayMagpie/VBPM-Core](https://github.com/SwayMagpie/VBPM-Core)
+  *Zenodo DOI: 10.5281/zenodo.20774545*
+
+- **Michi‑Drive Hypothesis — Unknown as an Entity**  
+  [https://github.com/SwayMagpie/Michi-Drive-Project](https://github.com/SwayMagpie/Michi-Drive-Project)
+  *Zenodo DOI: 10.5281/zenodo.20990020*
+
+### **AI Safety & Agent Architecture**
+- **PATI — Permission‑Aware Tool Interfaces**  
+  [https://github.com/SwayMagpie/PATI-public](https://github.com/SwayMagpie/PATI-public)
+  *Zenodo DOI: 10.5281/zenodo.20717530*
+
+- **TORA — Transparent Orchestration of ReAct Agents**  
+  [https://github.com/SwayMagpie/TORA-public](https://github.com/SwayMagpie/TORA-public)
+  *Zenodo DOI: 10.5281/zenodo.20685234*
 
 *(More branches will be added as the project grows.)*
 
