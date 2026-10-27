@@ -44,6 +44,10 @@ I will add links as I publish and organize them.
   [https://github.com/SwayMagpie/Structural-Reproducibility-Framework](https://github.com/SwayMagpie/Structural-Reproducibility-Framework)  
   *Zenodo DOI: 10.5281/zenodo.23259601*
 
+- **NISSG Theory — Non‑Inferential State Sequence Generation**
+  [https://github.com/SwayMagpie/NISSG_Theory](https://github.com/SwayMagpie/NISSG_Theory)
+  *Zenodo DOI: 10.5281/zenodo.23619774*
+  
 ### **Cognition, Value, and Behavior**
 - **VBPM‑Core — Value‑Based Personality Model**  
   [https://github.com/SwayMagpie/VBPM-Core](https://github.com/SwayMagpie/VBPM-Core)
